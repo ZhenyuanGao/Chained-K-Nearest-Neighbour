@@ -21,21 +21,34 @@ the first number is represents M (the number of data points)
 the next M non-empty lines represent the M data points [name x1 x2]
 each number that follows is a value of K to compute clusters for
 output:
-K=2
-	Cluster 1: A, B, C, D, E, F, G, H, I, J, K, L
-	Cluster 2: M, N, O
-K=3
-	Cluster 1: A, B, C, D
-	Cluster 2: E, F, G, H, I, J, K, L
-	Cluster 3: M, N, O
-K=4
-	Cluster 1: A, B, C, D
-	Cluster 2: E, F, G, H
-Cluster 3: I, J, K, L
-	Cluster 4: M, N, O
 
-	
-*Note: the points assigned to the same cluster must be as shown above, however the cluster numbers assigned to each cluster can be different
+K=2
+
+Cluster 1: A, B, C, D, E, F, G, H, I, J, K, L
+
+Cluster 2: M, N, O
+
+K=3
+
+Cluster 1: A, B, C, D
+
+Cluster 2: E, F, G, H, I, J, K, L
+
+Cluster 3: M, N, O
+
+K=4
+
+Cluster 1: A, B, C, D
+
+Cluster 2: E, F, G, H
+
+Cluster 3: I, J, K, L
+
+Cluster 4: M, N, O
+
+
+
+
 
 
 
